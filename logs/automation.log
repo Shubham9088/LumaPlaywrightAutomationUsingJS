@@ -1,0 +1,96 @@
+2025-04-16 15:01:56 [INFO]: Creating new user account
+2025-04-16 15:01:57 [INFO]: clicked Create an Account
+2025-04-16 15:01:57 [INFO]: Clicked create account button
+2025-04-16 15:01:58 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:01:58 [INFO]: Entered first name
+2025-04-16 15:01:58 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:01:58 [INFO]: Entered last name
+2025-04-16 15:01:58 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:01:58 [INFO]: Entered email
+2025-04-16 15:01:58 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:01:58 [INFO]: Entered password
+2025-04-16 15:01:58 [INFO]: Entered text= Shubham@12345 in input box password-confirmation
+2025-04-16 15:01:58 [INFO]: Entered conform password
+2025-04-16 15:01:59 [INFO]: Creating new user account
+2025-04-16 15:02:00 [INFO]: clicked Create an Account
+2025-04-16 15:02:00 [INFO]: Clicked create account button
+2025-04-16 15:02:00 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:02:00 [INFO]: Entered first name
+2025-04-16 15:02:00 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:02:00 [INFO]: Entered last name
+2025-04-16 15:02:00 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:02:00 [INFO]: Entered email
+2025-04-16 15:02:00 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:02:00 [INFO]: Entered password
+2025-04-16 15:02:00 [INFO]: Entered text= Shubham@123 in input box password-confirmation
+2025-04-16 15:02:00 [INFO]: Entered conform password
+2025-04-16 15:02:00 [INFO]: Clicked on button Create an Account
+2025-04-16 15:02:00 [INFO]: Create account button clicked
+2025-04-16 15:02:02 [INFO]: Clicked on button Create an Account
+2025-04-16 15:02:02 [INFO]: Create account button clicked
+2025-04-16 15:02:52 [ERROR]: locator.click: Test timeout of 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('//button/span[contains(text(),\'Create an Account\')]')[22m
+
+2025-04-16 15:05:52 [INFO]: Creating new user account
+2025-04-16 15:05:55 [INFO]: clicked Create an Account
+2025-04-16 15:05:55 [INFO]: Clicked create account button
+2025-04-16 15:05:55 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:05:55 [INFO]: Entered first name
+2025-04-16 15:05:55 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:05:55 [INFO]: Entered last name
+2025-04-16 15:05:55 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:05:55 [INFO]: Entered email
+2025-04-16 15:05:55 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:05:55 [INFO]: Entered password
+2025-04-16 15:05:55 [INFO]: Entered text= Shubham@12345 in input box password-confirmation
+2025-04-16 15:05:55 [INFO]: Entered conform password
+2025-04-16 15:05:59 [INFO]: Clicked on button Create an Account
+2025-04-16 15:05:59 [INFO]: Create account button clicked
+2025-04-16 15:06:36 [INFO]: Creating new user account
+2025-04-16 15:06:37 [INFO]: clicked Create an Account
+2025-04-16 15:06:37 [INFO]: Clicked create account button
+2025-04-16 15:06:37 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:06:37 [INFO]: Entered first name
+2025-04-16 15:06:37 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:06:37 [INFO]: Entered last name
+2025-04-16 15:06:37 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:06:37 [INFO]: Entered email
+2025-04-16 15:06:38 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:06:38 [INFO]: Entered password
+2025-04-16 15:06:38 [INFO]: Entered text= Shubham@123 in input box password-confirmation
+2025-04-16 15:06:38 [INFO]: Entered conform password
+2025-04-16 15:06:39 [INFO]: Clicked on button Create an Account
+2025-04-16 15:06:39 [INFO]: Create account button clicked
+2025-04-16 15:07:17 [INFO]: clicked Create an Account
+2025-04-16 15:07:19 [INFO]: Creating new user account
+2025-04-16 15:07:20 [INFO]: clicked Create an Account
+2025-04-16 15:07:20 [INFO]: Clicked create account button
+2025-04-16 15:07:20 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:07:20 [INFO]: Entered first name
+2025-04-16 15:07:20 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:07:20 [INFO]: Entered last name
+2025-04-16 15:07:20 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:07:20 [INFO]: Entered email
+2025-04-16 15:07:20 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:07:20 [INFO]: Entered password
+2025-04-16 15:07:20 [INFO]: Entered text= Shubham@12345 in input box password-confirmation
+2025-04-16 15:07:20 [INFO]: Entered conform password
+2025-04-16 15:07:20 [INFO]: Clicked on button Create an Account
+2025-04-16 15:07:20 [INFO]: Create account button clicked
+2025-04-16 15:07:21 [INFO]: Clicked on button Create an Account
+2025-04-16 15:07:46 [INFO]: Creating new user account
+2025-04-16 15:07:47 [INFO]: clicked Create an Account
+2025-04-16 15:07:47 [INFO]: Clicked create account button
+2025-04-16 15:07:48 [INFO]: Entered text= shubham in input box firstname
+2025-04-16 15:07:48 [INFO]: Entered first name
+2025-04-16 15:07:49 [INFO]: Entered text= chakole in input box lastname
+2025-04-16 15:07:49 [INFO]: Entered last name
+2025-04-16 15:07:49 [INFO]: Entered text= shubhamchakole22@gmail.com in input box email_address
+2025-04-16 15:07:49 [INFO]: Entered email
+2025-04-16 15:07:49 [INFO]: Entered text= Shubham@123 in input box password
+2025-04-16 15:07:49 [INFO]: Entered password
+2025-04-16 15:07:49 [INFO]: Entered text= Shubham@123 in input box password-confirmation
+2025-04-16 15:07:49 [INFO]: Entered conform password
+2025-04-16 15:07:50 [INFO]: Clicked on button Create an Account
+2025-04-16 15:07:50 [INFO]: Create account button clicked
