@@ -23,6 +23,7 @@ export const TestData={
     },
     message:{
         conformPasswordIncorrect:"Please enter the same value again.",
-        alredyUsedEmail:"There is already an account with this email address."
+        alredyUsedEmail:"There is already an account with this email address.",
+        required:"This is a required field."
     }
 }

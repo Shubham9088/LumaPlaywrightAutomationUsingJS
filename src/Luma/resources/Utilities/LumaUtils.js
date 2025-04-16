@@ -78,7 +78,7 @@ export default class LumaUtils{
      * @author shchak
      */
     async verifyText(message){
-        const element= this.page.locator("xpath="+this.getELementXpath(locators.objByText,{text:message}));
+        const element= this.page.locator("xpath="+this.getELementXpath(locators.objByText,{text:message})).first();
         await expect(element).toBeVisible();
     }
 

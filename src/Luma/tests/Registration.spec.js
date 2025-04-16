@@ -22,5 +22,6 @@ test.describe("Registration test case",()=>{
     test("Register user without providing any details",async()=>{
         await lumaUtil.clickPanelLink(TestData.createAccountText);
         await lumaUtil.clickButton(TestData.button.createAccount);
+        await lumaUtil.verifyText(TestData.message.required);  
     });
 });

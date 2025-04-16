@@ -4,4 +4,3 @@ export const locators={
     objButtonByText:"//button/span[contains(text(),'${text}')]",
     objByText:"//*[contains(text(),'${text}')]"
 }
-    
